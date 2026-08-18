@@ -1,0 +1,105 @@
+{
+  "policy": "Each image should be checked on its Wikimedia Commons file page before publication. This registry records the intended source file names used by the site; license/author metadata should be taken from the individual file page.",
+  "images": [
+    {
+      "file": "Augustus of Prima Porta.jpg",
+      "use": "Hero / Augustus profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta.jpg"
+    },
+    {
+      "file": "Tiberius Louvre Ma 1248.jpg",
+      "use": "Tiberius profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiberius_Louvre_Ma_1248.jpg"
+    },
+    {
+      "file": "Caligula Bust.jpg",
+      "use": "Caligula profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Caligula_Bust.jpg"
+    },
+    {
+      "file": "Claudius Louvre Ma 1231.jpg",
+      "use": "Claudius profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Claudius_Louvre_Ma_1231.jpg"
+    },
+    {
+      "file": "Nero Glyptothek Munich 321.jpg",
+      "use": "Nero profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Nero_Glyptothek_Munich_321.jpg"
+    },
+    {
+      "file": "Vespasianus Musei Capitolini.jpg",
+      "use": "Vespasian profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Vespasianus_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Titus Musei Capitolini.jpg",
+      "use": "Titus profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Titus_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Domitian Musei Capitolini.jpg",
+      "use": "Domitian profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Domitian_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Trajan Glyptothek Munich.jpg",
+      "use": "Trajan profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Trajan_Glyptothek_Munich.jpg"
+    },
+    {
+      "file": "Hadrian Musei Capitolini.jpg",
+      "use": "Hadrian profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Hadrian_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Marcus Aurelius Glyptothek Munich 337.jpg",
+      "use": "Marcus Aurelius profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Glyptothek_Munich_337.jpg"
+    },
+    {
+      "file": "Septimius Severus Musei Capitolini.jpg",
+      "use": "Septimius Severus profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Septimius_Severus_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Caracalla Musei Capitolini.jpg",
+      "use": "Caracalla profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Caracalla_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Diocletian Musei Capitolini.jpg",
+      "use": "Diocletian profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Diocletian_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Constantine Musei Capitolini.jpg",
+      "use": "Constantine profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Constantine_Musei_Capitolini.jpg"
+    },
+    {
+      "file": "Theodosius I Louvre Ma 1200.jpg",
+      "use": "Theodosius profile",
+      "source": "https://commons.wikimedia.org/wiki/File:Theodosius_I_Louvre_Ma_1200.jpg"
+    },
+    {
+      "file": "Trajan's Column - Roman soldiers.jpg",
+      "use": "Army section",
+      "source": "https://commons.wikimedia.org/wiki/File:Trajan%27s_Column_-_Roman_soldiers.jpg"
+    },
+    {
+      "file": "Colosseum in Rome, Italy - April 2007.jpg",
+      "use": "Architecture gallery",
+      "source": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg"
+    },
+    {
+      "file": "Pantheon Rome 2020.jpg",
+      "use": "Architecture gallery",
+      "source": "https://commons.wikimedia.org/wiki/File:Pantheon_Rome_2020.jpg"
+    },
+    {
+      "file": "Roman Forum Rome Italy 2020.jpg",
+      "use": "Rome section",
+      "source": "https://commons.wikimedia.org/wiki/File:Roman_Forum_Rome_Italy_2020.jpg"
+    }
+  ]
+}

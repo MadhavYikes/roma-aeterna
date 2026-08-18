@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Roma Aeterna — Image Credits</title>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<header class="header"><a href="index.html" class="logo"><b>ROMA</b><span>AETERNA</span></a><a href="index.html" style="color:#eee;text-decoration:none">← Back to site</a></header>
+<main class="section" style="padding-top:130px;min-height:100vh">
+<div class="kicker">PROVENANCE</div><h1 style="font:600 clamp(45px,7vw,90px) Cinzel,serif">Image Credits</h1>
+<p class="large">Roma Aeterna uses Wikimedia Commons imagery. Commons states that individual files can have different authorship and license requirements, so the file page is the authoritative source for each credit and licence.</p>
+<div id="credits" style="margin-top:45px"></div>
+</main>
+<script>
+fetch('CREDITS.json').then(r=>r.json()).then(d=>{
+document.getElementById('credits').innerHTML=d.images.map(x=>`<article style="padding:20px 0;border-bottom:1px solid #b8aa95"><b>${x.file}</b><p style="font-size:12px;color:#665d52">${x.use}</p><a href="${x.source}" target="_blank" rel="noopener" style="color:#8e5738">Open Wikimedia Commons file page →</a></article>`).join('')
+})
+</script></body></html>
